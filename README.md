@@ -1,10 +1,19 @@
-
-
 #  Destini
+
+![Destini](Documentation/Destini.gif)
 
 ## Goal
 
-Within this app, a "choose your own adventure" game has been meticulously crafted, drawing inspiration from the popular "Life Line" app available on the App Store. The narrative dynamically unfolds based on the choices made by the user, offering a unique storytelling experience with each decision. Furthermore, the app has been designed with flexibility in mind, allowing for continuous refinement and expansion to ensure a consistently engaging and immersive experience for the users.
+Destini is an immersive "choose your own adventure" game meticulously crafted using the Model-View-Controller (MVC) architectural pattern. Inspired by popular narrative-driven apps like "Life Line," Destini offers users a dynamic and interactive storytelling experience where the narrative unfolds based on the choices made by the player. Key features of the app include:
+
+## Dynamic Narrative
+The app presents users with a captivating narrative that dynamically evolves based on the decisions they make throughout the game. Each decision leads to branching storylines, offering a unique and personalized experience with every playthrough.
+
+## Interactive Decision-Making 
+At various points in the story, users are presented with two options to choose from, each affecting the direction of the narrative. These decision points drive the plot forward, allowing users to shape the outcome of the story through their choices.
+
+## Flexible Design for Expansion 
+Destini is designed with flexibility in mind, allowing for continuous refinement and expansion of the storyline and gameplay elements. New story arcs, characters, and decision points can be seamlessly integrated to keep the experience fresh and engaging for users over time.
 
 
 ## Story Strings
